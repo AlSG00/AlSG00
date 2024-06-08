@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Name's Alexander.
-**Education:** School of Space and Inormation Technology, SFU
-**Diploma specialty:** Information security specialist
+Name's Alexander.\
+**Education:** School of Space and Inormation Technology, SFU\
+**Diploma specialty:** Information security specialist.\
 
-Game Jam and Gametone participant.
+Game Jam and Gametone participant.\
 Currently learning .NET C#, Unity engine and Python actively. Worked with relative DB's.
 
 
