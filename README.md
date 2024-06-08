@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Name's Alexander.
+**Education:** School of Space and Inormation Technology, SFU
+**Diploma specialty:** Information security specialist
+
+Game Jam and Gametone participant.
+Currently learning .NET C#, Unity engine and Python actively. Worked with relative DB's.
+
+
 <!--
 **AlSG00/AlSG00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
