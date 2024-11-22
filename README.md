@@ -5,7 +5,7 @@ Name's Aleksandr.\
 **Diploma specialty:** Information security specialist.
 
 Game Jam and Gametone participant.\
-Currently learning .NET C#, Unity engine, Python and keras actively. 
+Currently learning Python and Keras actively. 
 
 **My Stack:**
 <p align="left">
