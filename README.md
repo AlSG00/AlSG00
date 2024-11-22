@@ -7,7 +7,7 @@ Name's Alexander.\
 Game Jam and Gametone participant.\
 Currently learning .NET C#, Unity engine, Python and keras actively. 
 
-My Stack:
+**My Stack:**
 C#, Python, Numpym Pandas, Matplotlib, Seaborn\
 Tensorflow, Keras, AutoML, ChatGPT, Langchain\
 Computer Vision, aiogram, autocoders, GAN
