@@ -5,7 +5,12 @@ Name's Alexander.\
 **Diploma specialty:** Information security specialist.\
 
 Game Jam and Gametone participant.\
-Currently learning .NET C#, Unity engine and Python actively. Worked with relative DB's.
+Currently learning .NET C#, Unity engine, Python and keras actively. 
+
+My Stack:
+C#, Python, Numpym Pandas, Matplotlib, Seaborn
+Tensorflow, Keras, AutoML, ChatGPT, Langchain
+Computer Vision, aiogram, autocoders, GAN
 
 
 <!--
