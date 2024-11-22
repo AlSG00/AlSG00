@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Name's Alexander.\
-**Education:** School of Space and Inormation Technology, SFU\
+Name's Aleksandr.\
+**Education:** School of Space and Information Technology, SFU\
 **Diploma specialty:** Information security specialist.
 
 Game Jam and Gametone participant.\
