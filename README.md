@@ -2,14 +2,14 @@
 
 Name's Alexander.\
 **Education:** School of Space and Inormation Technology, SFU\
-**Diploma specialty:** Information security specialist.\
+**Diploma specialty:** Information security specialist.
 
 Game Jam and Gametone participant.\
 Currently learning .NET C#, Unity engine, Python and keras actively. 
 
 My Stack:
-C#, Python, Numpym Pandas, Matplotlib, Seaborn
-Tensorflow, Keras, AutoML, ChatGPT, Langchain
+C#, Python, Numpym Pandas, Matplotlib, Seaborn\
+Tensorflow, Keras, AutoML, ChatGPT, Langchain\
 Computer Vision, aiogram, autocoders, GAN
 
 
