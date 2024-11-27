@@ -21,7 +21,7 @@ Computer Vision, aiogram, autocoders, GAN
 
 <br/>
 
-<div width="100%" align="center"><a href="https://github.com/AlSG00/Dog_Breed_Classifier" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlSG00&repo=Dog_Breed_Classifier&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/AlSG00/Parkinsons_disease_Detector" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlSG00&repo=Parkinsons_disease_Detector&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/AlSG00/Parkinsons_disease_Detector" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlSG00&repo=Parkinsons_disease_Detector&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
 <b>My GitHub Stats</b>
