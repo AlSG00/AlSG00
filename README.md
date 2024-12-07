@@ -32,8 +32,12 @@ Computer Vision, Aiogram, autocoders, GAN
 
 [**Customer support classifier**](https://github.com/AlSG00/Customer_Support_Classifier)<br />
 💡 Customer support tickets classifier created with AutoML framework.<br />
-⚙ **Stack:** Numpy, Pandas, Matplotlib, Tensorflow, Keras, Autokeras<br />
-<br /><br />
+⚙ **Stack:** Numpy, Pandas, Matplotlib, Tensorflow, Keras, Autokeras<br /><br />
+
+[**Telegram Quiz Bot**](https://github.com/AlSG00/Eazy_Quizy_Bot)<br />
+💡 Educational project of Telegram bot for performing various quizzes.<br />
+⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br />
+<br /><br /><br />
 
 ---
 📊 <b>My GitHub Stats</b>
