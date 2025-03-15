@@ -36,7 +36,11 @@ Computer Vision, Aiogram, autocoders, GAN
 
 [**Telegram Quiz Bot**](https://github.com/AlSG00/Eazy_Quizy_Bot)<br />
 💡 Educational project of Telegram bot for performing various quizzes.<br />
-⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br />
+⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br/><br />
+
+[**Upscaler**](https://github.com/AlSG00/Upscaler)<br />
+💡 omparative analysis of the architecture of autocoders in the task of image enhancement.<br />
+⚙ **Stack:** Keras, Tensorflow, RealESRGAN, VGG19<br />
 <br /><br /><br />
 
 ---
