@@ -39,7 +39,7 @@ Computer Vision, Aiogram, autocoders, GAN
 ⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br/><br />
 
 [**Upscaler**](https://github.com/AlSG00/Upscaler)<br />
-💡 omparative analysis of the architecture of autocoders in the task of image enhancement.<br />
+💡 Сomparative analysis of the architecture of autocoders in the task of image enhancement.<br />
 ⚙ **Stack:** Keras, Tensorflow, RealESRGAN, VGG19<br />
 <br /><br /><br />
 
