@@ -14,7 +14,7 @@ Currently learning Python and Keras actively.
 
 C#, Python, Numpy, Pandas, Matplotlib, Seaborn\
 Tensorflow, Keras, AutoML, ChatGPT, Langchain\
-Computer Vision, Aiogram, autocoders, GAN
+Computer Vision, Aiogram, autoencoders, GAN's
 <br /><br />
 
 ## My projects 📜
