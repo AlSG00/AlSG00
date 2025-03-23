@@ -41,6 +41,10 @@ Computer Vision, Aiogram, autoencoders, GAN's
 [**Upscaler**](https://github.com/AlSG00/Upscaler)<br />
 💡 Сomparative analysis of the architecture of autocoders in the task of image enhancement.<br />
 ⚙ **Stack:** Keras, Tensorflow, RealESRGAN, VGG19<br />
+
+[**AutoTranslator**](https://github.com/AlSG00/AutoTranslator)<br />
+💡 An educational project dedicated to making of real-time speech translation system.<br />
+⚙ **Stack:** Pandas, Numpy, Librosa, TTS, MarianMT<br />
 <br /><br /><br />
 
 ---
