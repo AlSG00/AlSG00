@@ -18,34 +18,34 @@ Computer Vision, Aiogram, autoencoders, GAN's
 <br /><br />
 
 ## My projects 📜
-[**Neural lawyer**](https://github.com/AlSG00/Neural_lawyer)<br />
-💡 RAG system trained as a lawyer that helps employees with legal issues.<br />
-⚙ **Stack:** OpenAI, Llama Index,  NeMo Guardrails.<br /><br />
+[**Neural lawyer**](https://github.com/AlSG00/Neural_lawyer)<br/>
+💡 RAG system trained as a lawyer that helps employees with legal issues.<br/>
+⚙ **Stack:** OpenAI, Llama Index,  NeMo Guardrails.<br/><br/>
 
-[**Lungs segmentation model**](https://github.com/AlSG00/lungs_segmentation)<br />
-💡 Semantic segmentation model for patient lungs analysis.<br />
-⚙ **Stack:** Keras, Tensorflow, Numpy, Pandas, Matplotlib, Sklearn<br /><br />
+[**Lungs segmentation model**](https://github.com/AlSG00/lungs_segmentation)<br/>
+💡 Semantic segmentation model for patient lungs analysis.<br/>
+⚙ **Stack:** Keras, Tensorflow, Numpy, Pandas, Matplotlib, Sklearn<br /><br/>
 
-[**Dog breed classifier**](https://github.com/AlSG00/Dog_Breed_Classifier)<br />
-💡 Convolutional model that classifies dogs images of their breed.<br />
-⚙ **Stack:** Matplotlib, Tensorflow, Keras, EfficientNet.<br /><br />
+[**Dog breed classifier**](https://github.com/AlSG00/Dog_Breed_Classifier)<br/>
+💡 Convolutional model that classifies dogs images of their breed.<br/>
+⚙ **Stack:** Matplotlib, Tensorflow, Keras, EfficientNet.<br/><br/>
 
-[**Customer support classifier**](https://github.com/AlSG00/Customer_Support_Classifier)<br />
-💡 Customer support tickets classifier created with AutoML framework.<br />
-⚙ **Stack:** Numpy, Pandas, Matplotlib, Tensorflow, Keras, Autokeras<br /><br />
+[**Customer support classifier**](https://github.com/AlSG00/Customer_Support_Classifier)<br/>
+💡 Customer support tickets classifier created with AutoML framework.<br/>
+⚙ **Stack:** Numpy, Pandas, Matplotlib, Tensorflow, Keras, Autokeras<br/><br/>
 
-[**Telegram Quiz Bot**](https://github.com/AlSG00/Eazy_Quizy_Bot)<br />
-💡 Educational project of Telegram bot for performing various quizzes.<br />
-⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br/><br />
+[**Telegram Quiz Bot**](https://github.com/AlSG00/Eazy_Quizy_Bot)<br/>
+💡 Educational project of Telegram bot for performing various quizzes.<br/>
+⚙ **Stack:** Aiogram, Asyncio, Aiosqlite, Yandex Cloud<br/><br/>
 
-[**Upscaler**](https://github.com/AlSG00/Upscaler)<br />
-💡 Сomparative analysis of the architecture of autocoders in the task of image enhancement.<br />
-⚙ **Stack:** Keras, Tensorflow, RealESRGAN, VGG19<br />
+[**Upscaler**](https://github.com/AlSG00/Upscaler)<br/>
+💡 Сomparative analysis of the architecture of autocoders in the task of image enhancement.<br/>
+⚙ **Stack:** Keras, Tensorflow, RealESRGAN, VGG19<br/><br/>
 
-[**AutoTranslator**](https://github.com/AlSG00/AutoTranslator)<br />
-💡 An educational project dedicated to making of real-time speech translation system.<br />
-⚙ **Stack:** Pandas, Numpy, Librosa, TTS, MarianMT<br />
-<br /><br /><br />
+[**AutoTranslator**](https://github.com/AlSG00/AutoTranslator)<br/>
+💡 An educational project dedicated to making of real-time speech translation system.<br/>
+⚙ **Stack:** Pandas, Numpy, Librosa, TTS, MarianMT<br/>
+<br/><br/><br/>
 
 ---
 📊 <b>My GitHub Stats</b>
