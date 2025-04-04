@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 Name's Aleksandr.\
 **Education:** School of Space and Information Technology, SFU\
